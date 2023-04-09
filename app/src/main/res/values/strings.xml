@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="problem1Question1">first question from Kotlin fundamentals with three choices of Radio buttons using RadioGroup</string>
+    <string name="problem1Answer1">Choice 1</string>
+
+    <string name="problem1Question2">Kotlin fundamentals with three choices of Check Box</string>
+    <!-- always 1 choice is correct answers logic is static -->
+    <string name="choice_1">Choice 1</string>
+    <string name="choice_2">Choice 2</string>
+    <string name="choice_3">Choice 3</string>
+
+    <string name="problem_1">Problem 1</string>
+    <!-- always 1 and 2 checkboxes are correct answers logic is static -->
+    <string name="checkbox_1">Checkbox 1</string>
+    <string name="checkbox_2">Checkbox 2</string>
+    <string name="checkbox_3">Checkbox 3</string>
+
+
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+
+
+
+    <string-array name="bookTitles">
+        <item>Maharishi</item>
+        <item>Dr Tony Nader</item>
+        <item>Scientific Research Consiousness, knowledge and Enlightment</item>
+        <item>Modern Science and Vedic Science</item>
+        <item>Book Series</item>
+        <item>Other Authours</item>
+        <item>Clearance</item>
+    </string-array>
+
+    <string-array name="bookTitles2">
+        <item>Organic Calm Tea</item>
+        <item>Organic Energise Tea</item>
+        <item>Worry free Tea</item>
+        <item>Slumber Time tea</item>
+    </string-array>
+
+    <string-array name="bookTitles2Image">
+        <item>image_calm</item>
+        <item>image_energize</item>
+        <item>image_worry</item>
+        <item>image_slumber</item>
+    </string-array>
+
+    <string-array name="bookTitles2Price">
+        <item>$8.00</item>
+        <item>$7.00</item>
+        <item>$9.00</item>
+        <item>$11.00</item>
+    </string-array>
+
+    <string-array name="bookTitles2Details">
+        <item>Item ID#112\nWhen life gets hectic, a few sips of Organic Calm Vata Tea can help your body relax and your whirling mind settle down. Bring natural tranquility to your day and evening!
+        </item>
+        <item>Item ID#113\nSkip the coffee and try this delicious, stimulating herbal blend instead. The warm, peppery spices offer digestive support, and are sure to wake you up when you need it most!  </item>
+        <item>Item ID#114\nAshwagandha has many significant benefits, but is best known for its powerful adaptogenic properties, meaning that it helps mind and body adapt better to stress. It nourishes the nerves and improves nerve function to help you maintain calm during stressful situations.</item>
+        <item>Item ID#115\nAshwagandha is a powerful adaptogenic and helps stabilize the mind and emotions. Compostable, Double-Chamber Tea Bags. Eco-friendly compostable tea bag paper made from all-natural pulp, the double-chamber design provides more surface area for better water circulation and fuller flavor!</item>
+    </string-array>
+
+
+</resources>
